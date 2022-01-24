@@ -1,0 +1,17 @@
+body {
+    font-size:18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:whitesmoke;
+    max-width:500px;
+    }
+    img {
+    width:320px;
+    }
+    header{
+    align-content:center;
+    }
+    a:link
+    a:visited 
+    .magenta{
+    color:magenta;
+    text-decoration:none;}
